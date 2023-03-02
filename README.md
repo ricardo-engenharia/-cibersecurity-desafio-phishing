@@ -39,4 +39,4 @@ Alt text
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./password.png "Tela com o Resultado")
